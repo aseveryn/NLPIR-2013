@@ -7,6 +7,12 @@ Repo for the source code and other resources.
 
 Slides are under the **slides/** folder
 
+# Course projects
+
+All resources related to the course projects can be found under **course_projects/** folder. 
+
+The folder **sts2012** contains a detailed readme (README.md) that explains how to run the baseline system step by step.
+
 # Lab01
 
 **NOTE**: if you import the project into Eclipse and you have JDK 6, you need to modify the classpath, since the project assumes you have JDK 7 installed. To change the JDK to ver. 6 you need to go to project properties and change the preferred JRE to your system default. 
