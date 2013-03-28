@@ -26,7 +26,7 @@ public class StemAnalyzer extends StopwordAnalyzerBase {
 	 */
 	public static final Set<?> STOP_WORDS_SET = StopAnalyzer.ENGLISH_STOP_WORDS_SET;
 
-	protected StemAnalyzer(Version version) {
+	public StemAnalyzer(Version version) {
 		super(version);
 	}
 

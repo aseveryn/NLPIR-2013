@@ -54,7 +54,8 @@ public class QAIndex {
 
 		// create an index
 		Directory index = FSDirectory.open(indexDir);
-
+		
+//		Analyzer analyzer = new StemAnalyzer(Version.LUCENE_35);
 		StandardAnalyzer analyzer = new StandardAnalyzer(Version.LUCENE_35);
 		IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_35,
 				analyzer);
