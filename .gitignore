@@ -1,2 +1,7 @@
 bin/
 index/
+target/
+course_projects/sts2012/features/
+course_projects/sts2012/models/
+*.pyc
+*.model.*
