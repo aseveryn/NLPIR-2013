@@ -13,6 +13,8 @@ All resources related to the course projects can be found under **course_project
 
 The folder **sts2012** contains a detailed readme (README.md) that explains how to run the baseline system step by step.
 
+[Course descriptions](https://docs.google.com/document/d/1sh2kk6Hj8cWsCellIaXuBpzHF9yGZaomDWCRSJ78nTk/edit?usp=sharing)
+
 # Lab01
 
 **NOTE**: if you import the project into Eclipse and you have JDK 6, you need to modify the classpath, since the project assumes you have JDK 7 installed. To change the JDK to ver. 6 you need to go to project properties and change the preferred JRE to your system default. 
